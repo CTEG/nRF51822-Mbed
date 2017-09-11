@@ -1,0 +1,4 @@
+ble/
+ble-nrf51822/
+mbed-os/
+gcc-mbed-build/
